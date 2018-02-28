@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Chapter 5/WIP_6.unity
+  isLoaded: 1
+  isActive: 1
