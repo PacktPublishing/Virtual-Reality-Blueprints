@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6c5f37ec68bab72468c8de8260154cad
+timeCreated: 1513639205
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 90
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CarnivalMF
+  fontNames:
+  - CarnivalMF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
